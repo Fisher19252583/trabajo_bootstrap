@@ -1,0 +1,31 @@
+
+/******************Para Catalogo ***************************/
+body{
+    background-color: rgb(153, 202, 221);
+   }
+
+h5{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #491e9d;
+    font-size: 40px;
+    } 
+a{
+text-decoration: none;
+font-size: 17px;
+} 
+
+p{
+    font-size: 17px;
+}
+
+a:hover{
+    color: #0bc032 !important
+}
+i{
+    font-size: 25px;
+}
+footer{
+    margin-top: 50px;
+    color: #16d61d;
+    background-color: #ff7683;
+  }
